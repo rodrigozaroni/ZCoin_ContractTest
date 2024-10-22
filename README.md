@@ -14,3 +14,7 @@ https://www.binance.com/en/square/post/159397
 https://www.bnbchain.org/en/what-is-bnb
 
 https://www.bnbchain.org/en/testnet-faucet
+
+https://testnet.bscscan.com/balancecheck-toolhttps://testnet.bscscan.com/balancecheck-tool
+
+Check Old Transactions: 0x564F4Fc59e74f36134FFa4e0d21a02843dD9016D
