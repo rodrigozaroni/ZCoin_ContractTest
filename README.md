@@ -1,6 +1,7 @@
 # ZCoin_ContractTest
 ZCoin Tests (Solidity)
 
+https://wizard.openzeppelin.com/#erc1155
 
 Compiler FolderShare
 install the new: npm install -g @remix-project/remixd
